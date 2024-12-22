@@ -14,7 +14,7 @@ description: >-
   Connect Zeus Wallet, Zap, or any other wallet that supports lndconnect to remotely manage and access your node from anywhere.
 
 
-  With the Advanced Settings feature, you can take control of your node and customize it to your needs. Personalize it with a name, enable larger channels, limit channel sizes, set your routing fees, optimize your routing strategy, add watchtower services, fine-tune its performance, and much more.
+  With the Advanced Settings feature, you can take control of your node and customize it to your needs. Personalize it with a name, enable larger channels, limit channel sizes, set your routing fees, optimize your routing strategy, add watchtower services, fine-tune its performance with best practices, and much more.
 
 
   Powered by LND.
